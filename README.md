@@ -16,7 +16,8 @@ Advanced Steganography & Data Sovereignty Vault
 ![Security](https://img.shields.io/badge/Focus-Security-red)
 ![Encryption](https://img.shields.io/badge/Encryption-AES--256-red)
 ![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue)
-
+![Min Android](https://img.shields.io/badge/Min%20Android-8.0%20(Oreo)-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 </p>
 
 <p align="center">
