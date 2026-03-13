@@ -5,7 +5,6 @@
 ![Language](https://img.shields.io/badge/Language-Kotlin-blue)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-purple)
 ![Security](https://img.shields.io/badge/Focus-Security-red)
-![Kotlin](https://img.shields.io/badge/language-kotlin-purple)
 ![Encryption](https://img.shields.io/badge/encryption-AES--256-red)
 ![Architecture](https://img.shields.io/badge/architecture-MVVM-blue)
 
